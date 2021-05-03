@@ -19,4 +19,8 @@ h1 {
 }
 h3 {
     font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin-top: -10px;
+    padding: 2.5rem;
+    font-weight: bold;
 }
