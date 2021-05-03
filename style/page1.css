@@ -9,3 +9,36 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
+
+
+
+.topnav {
+    overflow: hidden;
+    background-color: transparent;
+    position: relative;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  .topnav #myLinks {
+    display: none;
+  }
+  
+  .topnav a {
+    float: left;
+    color: rgb(26, 22, 22);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a.icon {
+    float: right;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(34, 31, 31);
+    color: rgb(241, 237, 237);
+  }
+  
+
+
