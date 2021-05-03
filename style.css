@@ -42,10 +42,10 @@ h3 {
   
   .topnav a {
     float: left;
-    color: rgb(26, 22, 22);
+    color: rgb(32, 28, 28);
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
   }
   
   .topnav a.icon {
@@ -53,7 +53,7 @@ h3 {
   }
   
   .topnav a:hover {
-    background-color: rgb(34, 31, 31);
+    background-color: rgb(58, 57, 57);
     color: rgb(241, 237, 237);
   }
   
