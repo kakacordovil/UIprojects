@@ -1,26 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Roboto:wght@100&display=swap');
 
-*{
-    padding: 2rem;
-}
+html { 
+    background: url("https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
 p {
     font-family: 'Roboto', sans-serif;
     font-size: 27px;
     margin-top: 60px;
-    padding: 2.5rem;
+    padding: 5.5rem;
     font-weight: bold;
 }
 h1 {
     font-family: 'Oswald', sans-serif;
     font-size: 10rem;
-    margin-top: -110px;
+    margin-top: -200px;
     line-height: 1;
+    padding: 5rem;
 }
 h3 {
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
-    margin-top: -10px;
-    padding: 2.5rem;
+    margin-top: -100px;
+    padding: 5.5rem;
     font-weight: bold;
 }
+
