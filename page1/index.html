@@ -11,9 +11,9 @@
 <body>
     <header>
         <div class="topnav">
-            <a href="index.html">Roboto&OpenSan</a>
+            <a href="index.html">Home</a>
             <div id="myLinks">
-              <a href="../index.html">Home</a>
+              <a href="./page1/index.html" class="active">Roboto&OpenSan</a>
               <a href="#contact">Contact</a>
               <a href="#about">About</a>
             </div>
@@ -26,31 +26,29 @@
     <div id="title">
         SIMPLE <br>CHECKOUT <br>IN EMAILS
     </div>
+    <div id="sub-title">
+        <p>We power secure interactive emails that reduce <br>friction and increase conversions.</p>
+    </div>
 
     <div id="dataform">
             <p>
-                Starts:
-                <input type="number" id="start">
+                <input type="text" id="name" name="name" placeholder="your name here">
             </p>
 
             <p>
-                Ends:
-                <input type="number" id="end">
+                <input type="text" id="email" name="email" placeholder="your email adress here">
             </p>
 
-            <p>
-                Steps:
-                <input type="number" id="step">
-            </p>
-
-            <button class="learn-more">
-                <span class="button-text" onclick="toCount()">Count</span>
+            <button class="submit">
+                <span class="button-text" onclick="toSubmi()">SUBMIT</span>
             </button>            
         </div>
 
         <div id="image">
           <img #image src="./img/mobile-clipart-png_315856.png">
         </div>
+
+        <script src="script.js"></script>
     
 </body>
 </html>

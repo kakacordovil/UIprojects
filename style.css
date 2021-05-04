@@ -56,6 +56,11 @@ h3 {
     background-color: rgb(58, 57, 57);
     color: rgb(241, 237, 237);
   }
+
+  .active {
+    background-color: #24725e;
+    color: #69696948;
+  }
   
 
 

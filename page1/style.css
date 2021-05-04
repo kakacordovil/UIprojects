@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Roboto:wght@100&display=swap');
 
 html { 
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    background: linear-gradient(rgba(0, 0, 0, 0.822), rgba(0, 0, 0, 0.87)), 
     url("https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1330&q=80") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -9,6 +9,37 @@ html {
     background-size: cover;
   }
 
+  #title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 74px;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: 1px;
+    line-height: 74px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    }
+
+    #sub-title {
+        font-family: Roboto, sans-serif;
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 300;
+        letter-spacing: normal;
+        line-height: 25px;
+        text-transform: none;
+        color: #FFFFFF;
+        }
+#dataform {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 20px;
+    text-transform: none;
+    color: #696969;
+    }
 
 .topnav {
     overflow: hidden;
@@ -36,5 +67,10 @@ html {
   .topnav a:hover {
     background-color: rgb(58, 57, 57);
     color: rgb(241, 237, 237);
+  }
+
+  .active {
+    background-color: #24725e;
+    color: #69696948;
   }
   
