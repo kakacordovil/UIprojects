@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Roboto:wght@100&display=swap');
 
-html { 
+body { 
     background: linear-gradient(rgba(0, 0, 0, 0.822), rgba(0, 0, 0, 0.87)), 
     url("https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1330&q=80") no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -96,7 +96,7 @@ html {
 
     input {
         width: 100%;
-        padding: 15px 20px;
+        padding: 15px 10px;
         margin-top: 1px 0;
         display: inline-block;
         border: 1px solid #ccc;
@@ -111,11 +111,11 @@ html {
         background-color: #43ad93; /* Green */
         border: none;
         color: white;
-        padding: 9px 98px;
-        text-indent: -305%;
+        padding: 15px 128px;
+        text-indent: -395%;
         text-decoration: none;
         display: inline-block;
-        font-size: 16px;
+        font-size: 10px;
       }
 
 #image {
@@ -124,3 +124,4 @@ html {
     margin-top: -529px;
     margin-left: 790px;
 }
+
