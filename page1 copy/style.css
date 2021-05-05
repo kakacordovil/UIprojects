@@ -76,9 +76,9 @@ body {
     line-height: 20px;
     text-transform: none;
     color: #696969;
-    width: 20%;
-    padding-left: 40px;
-    padding-top: 10px;
+    width: 100%;
+    padding: 10px 30px;
+   
     }
 
     #form-title {
@@ -92,10 +92,10 @@ body {
         color: #FFFFFF;
     }
 
-    input {
+    #dataform input {
         width: 100%;
         padding: 15px 10px;
-        margin-top: 1px 0;
+        margin: 9px 0;
         display: inline-block;
         border: 1px solid #ccc;
         box-sizing: border-box;
@@ -109,11 +109,12 @@ body {
         background-color: #43ad93; /* Green */
         border: none;
         color: white;
-        padding: 15px 128px;
-        text-indent: -395%;
+        padding: 15px;
+        text-align: left;
         text-decoration: none;
         display: inline-block;
         font-size: 10px;
+        width: 100%;
       }
 
 #image {
