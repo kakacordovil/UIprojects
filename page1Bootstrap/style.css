@@ -63,7 +63,7 @@ body {
         text-transform: none;
         color: #FFFFFF;
         padding-left: 40px;
-        margin-top: -30px;
+        margin-top: -10px;
         }
 
 
@@ -73,7 +73,6 @@ body {
     font-style: normal;
     font-weight: normal;
     letter-spacing: normal;
-    line-height: 20px;
     text-transform: none;
     color: #696969;
     width: 100%;
@@ -87,9 +86,9 @@ body {
         font-style: normal;
         font-weight: 300;
         letter-spacing: normal;
-        line-height: 25px;
         text-transform: none;
         color: #FFFFFF;
+        margin-top: 40px;
     }
 
     #dataform input {
@@ -118,9 +117,8 @@ body {
       }
 
 #image {
-    position: absolute;
-    padding: -20px;
-    margin-top: -529px;
+    position: relative;
+    margin-top: -96522229px;
     margin-left: 790px;
 }
 
