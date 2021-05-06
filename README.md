@@ -12,13 +12,12 @@ The exercise propose for each one type, two pages, in the table you can check th
 
 
 |Type             |Ready                                                       
-|-----------------|-------------------------------
-
-|Roboto          |👍🏽                      
-|Montserrat      |🤏🏽                     
-|Droid-Serif     |🤏🏽			      
-|Open Sans       |👩🏽‍💻                   
-|Merriweather    |🤏🏽                    
-|Crimson         |🤏🏽            
+|-----------------|----------------------------
+|Roboto           |👍🏽                      
+|Montserrat       |🤏🏽                     
+|Droid-Serif      |🤏🏽			      
+|Open Sans        |👩🏽‍💻                   
+|Merriweather     |🤏🏽                    
+|Crimson          |🤏🏽            
 
 
